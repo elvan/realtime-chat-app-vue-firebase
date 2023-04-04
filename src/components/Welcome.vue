@@ -23,7 +23,7 @@ export default {
   },
   methods: {
     enterChat() {
-      console.log(this.name);
+      this.$router.push({ name: 'Chat', params: { name: this.name } });
     }
   }
 };
