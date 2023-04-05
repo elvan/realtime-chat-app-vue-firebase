@@ -14,7 +14,7 @@
     "not ie <= 8"
   ],
   "dependencies": {
-    "firebase": "^7.24.0",
+    "firebase": "^9.19.1",
     "moment": "^2.29.4",
     "vue": "^2.7.14",
     "vue-chat-scroll": "^1.4.0",
